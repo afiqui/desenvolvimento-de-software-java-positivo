@@ -1,6 +1,6 @@
 # Aula 1
 ## Colaboradores
 
--Rafael Dias
--Felipe Fabienski
+-Rafael Dias\n
+-Felipe Fabienski\n
 -João Pedro Meira Messias
