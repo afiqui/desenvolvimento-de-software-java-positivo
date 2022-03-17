@@ -20,7 +20,7 @@ public class App {
             player = getPlayerTurn(turn);
             System.out.println(String.format("Player´s %d (%s) turn - Type the number of the position", player, player == 1 ? 'x' : 'o'));
             printTable(0);
-            System.out.print("Digite sua jogada: ");
+            System.out.print("Type the position: ");
             int playerMove = scanner.nextInt();
             while(!isValidPosition(playerMove)){
                 System.out.println("Invalid Position!");
