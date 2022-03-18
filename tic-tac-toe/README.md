@@ -1,4 +1,4 @@
-# Aula 1
+# Jogo da Velha - TicTacToe
 ## Colaboradores
 
 ```
